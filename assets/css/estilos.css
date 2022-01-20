@@ -18,10 +18,10 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 450px;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: top;
 }
 
 /* Contacto */
@@ -34,4 +34,8 @@ body {
 nav img{
   width: 30rem;
 }
+
+.link { color: #f8f8f8; }
+
+.nav-link { color: #f8f8f8; }
 
